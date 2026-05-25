@@ -1,20 +1,20 @@
 {
-  " pub_key\: \BLS_VER_KEY~HSkpHrbRJfW5A5HGTjjbMKFYiKlqhiaNopJWlhhmagfemOTf9H6bjDfbxIGrNgiQCycoSh7hgzbhzcY6hp_vCq1bInX_XeNAWWCXb5kioTpWCH0z1LmPFq9-1WGRcX4Xa0g2KuO52k9x314EPlU4qu0UYpDrOPAke7yaC5h5qhKQ\,
- \name\: \catsmile\,
- \description\: \Precise Validation Guaranteed Results\,
- \company_name\: \catsmile\,
- \company_website\: \https://catsmilepro.space\,
- \client_version\: \1.0.0\,
- \icon\: {
- \14x14\: {
- \@1x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\,
- \@2x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\,
- \@3x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\
- },
- \24x24\: {
- \@1x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\,
- \@2x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\,
- \@3x\: \https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg\
- }
- }
+  "pub_key": "BLS_VER_KEY~HSkpHrbRJfW5A5HGTjjbMKFYiKlqhiaNopJWlhhmagfemOTf9H6bjDfbxIGrNgiQCycoSh7hgzbhzcY6hp_vCq1bInX_XeNAWWCXb5kioTpWCH0z1LmPFq9-1WGRcX4Xa0g2KuO52k9x314EPlU4qu0UYpDrOPAke7yaC5h5qhKQ",
+  "name": "catsmile",
+  "description": "Precise Validation, Guaranteed Results",
+  "company_name": "catsmile",
+  "company_website": "https://catsmilepro.space",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg",
+      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/catsmile.jpg"
+    }
+  }
 }
